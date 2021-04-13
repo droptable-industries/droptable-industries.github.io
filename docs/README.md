@@ -2,7 +2,7 @@
 
 Welcome to Droptable Industries.
 
-Dropping tables left, right, and centre
+Providing cloud services to the communtiy while dropping tables left, right, and centre
 
 For phone support, contact 0800-DROP-TABLE
 
