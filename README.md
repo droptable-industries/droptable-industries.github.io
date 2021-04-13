@@ -1,10 +1,5 @@
-# Droptable Industries
+# Droptable Industries Website
 
-Welcome to Droptable Industries.
+This is the GitHub Pages repository for [droptable.industries](https://droptable.industries)
 
-Dropping tables since 
-
-Dropping tables left, right, and centre
-
-
-For phone support, contact 0800-DROP-TABLE
+GitHub pages is deployed from directory [/public](./public) on branch main
