@@ -1,3 +1,3 @@
 # Imprint
 
-Droptable Industries UG
+Droptable Industries
